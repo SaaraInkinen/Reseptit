@@ -2,16 +2,16 @@
 
 ## Halvempi ja "terveellisempi" versio
 
--225 g voita 
--170 g sokeria 
--200 g fariinisokeria 
--4 kananmunaa 
--1 tl vaniljasokeria (tai vaniljaesanssia maun mukaan)
--2 dl vehnäjauhoja (jos haluaa gluteenittoman, käytä jauhoseosta joka ei sisällä kohottavia aineita) 
--0,5 dl makeuttamatonta kaakaojauhetta 
--1,5 dl kaakaojuomajauhetta 
--1 tl suolaa 
--250 g maitosuklaata (Panda - miedompi ja jauhoisempi / Fazer - täyteläisempi mutta makeampi / Brunberg - maidoton ja gluteeniton)
+-225 g voita  <br />
+-170 g sokeria  <br />
+-200 g fariinisokeria  <br />
+-4 kananmunaa  <br />
+-1 tl vaniljasokeria (tai vaniljaesanssia maun mukaan) <br />
+-2 dl vehnäjauhoja (jos haluaa gluteenittoman, käytä jauhoseosta joka ei sisällä kohottavia aineita)  <br />
+-0,5 dl makeuttamatonta kaakaojauhetta  <br />
+-1,5 dl kaakaojuomajauhetta  <br />
+-1 tl suolaa  <br />
+-250 g maitosuklaata (Panda - miedompi ja jauhoisempi / Fazer - täyteläisempi mutta makeampi / Brunberg - maidoton ja gluteeniton) <br />
 
 Lämmitä uuni 175 celsiusasteeseen. Laita noin 20 cm x 30 cm kokoiseen 
 peltiin leivinpaperi.
