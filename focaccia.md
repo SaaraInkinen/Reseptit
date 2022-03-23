@@ -1,19 +1,20 @@
-1 iso leipä, syvä pellillinen:
+# Focaccia
 
-3½ dl vettä (kts. lämpötila ohjeesta)
-n. 7 dl vehnäjauhoja
-11 g kuivahiivaa (eli 1 pss Sunnuntai-kuivahiivaa)
-1½ tl suolaa
-½ dl oliiviöljyä (Borges extra-neitsytoliiviöljy)
-1 rkl hunajaa (mieluiten luomuhunaja purkissa)
+## 1 iso leipä, syvä pellillinen:
 
-Päälle:
-noin ½ dl oliiviöljyä (älä mittaa sen kummemmin, tarpeen mukaan)
+-3½ dl vettä (kts. lämpötila ohjeesta) <br />
+-n. 7 dl vehnäjauhoja <br />
+-11 g kuivahiivaa (eli 1 pss Sunnuntai-kuivahiivaa) <br />
+-1½ tl suolaa <br />
+-½ dl oliiviöljyä (Borges extra-neitsytoliiviöljy) <br />
+-1 rkl hunajaa (mieluiten luomuhunaja purkissa) <br />
+
+Päälle: <br />
+-noin ½ dl oliiviöljyä (älä mittaa sen kummemmin, tarpeen mukaan) <br />
 
 
 Lämmitä vesi 45 C (sormenlämpöistä lämpimämpää). Lisää kuivahiiva veteen ja sekoita, odota 10 min. Lisää oliiviöljy, hunaja ja suola. Sekoita vehnäjauhoja vähitellen
-samalla vaivaten. Vaivaa vielä noin 10 min käsin, kunnes taikina alkaa tarttua itseensä kiinni (eli vielä tarttuu sormiin, mutta ei ole mahdotonta saada pois). Taikinan
-kuuluisi olla joustavaa, mutta hieman tahmeaa. Anna kohota liinan alla lämpimässä paikassa (voi jopa lämminvesihauteessa) liinan alla 30 min.
+samalla vaivaten. Vaivaa vielä noin 10 min käsin, kunnes taikina alkaa tarttua itseensä kiinni (eli vielä tarttuu sormiin, mutta ei ole mahdotonta saada pois). Taikinan kuuluisi olla joustavaa, mutta hieman tahmeaa. Anna kohota liinan alla lämpimässä paikassa (voi jopa lämminvesihauteessa) liinan alla 30 min.
 
 Laita leivinpaperi vuokaan. Halutessasi voitele koko vuoka runsaalla määrällä oliiviöljyä (voi olla hankalaa levittää taikina vuokaan, jos se on voideltu).
 
